@@ -6,7 +6,7 @@ export default class Right_bar extends Component {
     return (
       <div>
         <div class="search">
-          <input class="input" placeholder="&#xf002;"></input>
+          <input class="input" placeholder="search"></input>
         </div>
       </div>
     );
