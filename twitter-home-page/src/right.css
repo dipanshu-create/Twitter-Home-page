@@ -4,6 +4,9 @@
 }
 .input {
   padding: 20px;
+  margin-top: 10px;
+  margin-right: 60px;
+  border-radius: 1.625rem;
 }
 .serach input {
   text-indent: 30px;
@@ -16,7 +19,7 @@
   font-size: 15px;
 }
 input {
-  width: 280px;
+  width: 350px;
   padding: 5px;
   margin: 15px;
   height: 25px;
@@ -24,4 +27,22 @@ input {
 }
 placeholder {
   color: red;
+}
+.box {
+  border-radius: 16px;
+  border: 1px solid black;
+  margin-left: 15px;
+  width: 350px;
+  height: 400px;
+}
+.a {
+  padding: 5px;
+  margin-left: 3px;
+  font-size: 18px;
+}
+.a1 {
+  display: inline;
+}
+#a12 {
+  margin-left: 200px;
 }

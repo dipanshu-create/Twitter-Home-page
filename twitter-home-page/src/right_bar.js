@@ -6,7 +6,15 @@ export default class Right_bar extends Component {
     return (
       <div>
         <div class="search">
-          <input class="input" placeholder="search"></input>
+          <input class="input" placeholder="Search Twitter"></input>
+        </div>
+        <div class="box">
+          <div class="a">
+            <p class="a1">Trends for you</p>
+            <p class="a1" id="a12">
+              *
+            </p>
+          </div>
         </div>
       </div>
     );
