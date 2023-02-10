@@ -1,1 +1,28 @@
-
+load("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css")
+.search {
+  position: relative;
+  text-align: center;
+}
+.input {
+  padding: 20px;
+}
+.serach input {
+  text-indent: 30px;
+  font-family: FontAwesome, sans-serif;
+}
+.search .fa-search {
+  position: absolute;
+  top: 28px;
+  left: 65%;
+  font-size: 15px;
+}
+input {
+  width: 280px;
+  padding: 5px;
+  margin: 15px;
+  height: 25px;
+  outline: none;
+}
+placeholder {
+  color: red;
+}

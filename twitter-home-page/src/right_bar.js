@@ -5,12 +5,8 @@ export default class Right_bar extends Component {
   render() {
     return (
       <div>
-        <div>
-          <input
-            type="text"
-            class="input-field-control"
-            placeholder="Search"
-          ></input>
+        <div class="search">
+          <input class="input" placeholder="&#xf002;"></input>
         </div>
       </div>
     );
