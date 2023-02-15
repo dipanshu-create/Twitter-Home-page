@@ -25,7 +25,8 @@
 .home {
   width: 45%;
   float: left;
-  padding: 10px;
   height: 657px;
+  padding-top: 0px;
+  margin-top: 0px;
   border-right: 1px solid black;
 }
