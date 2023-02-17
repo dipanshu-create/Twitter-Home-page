@@ -11,8 +11,11 @@ export default class Home extends Component {
         <p class="border"></p>
 
         <div>
-          <div class="image"></div>
-          <div class="post"></div>
+          <div class="imageh">
+            <img class="imageh1" src={require("./images (1).jpg")}></img>
+          </div>
+          <div class="post">whats happening</div>
+          <div class="usericon"></div>
         </div>
       </div>
     );

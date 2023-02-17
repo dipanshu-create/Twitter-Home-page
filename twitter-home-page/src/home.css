@@ -20,15 +20,20 @@
   padding-top: 0px;
 }
 
-.image {
+.imageh {
   width: 12%;
   float: left;
   border-right: 1px solid black;
-  height: 50px;
+  height: 75px;
 }
 .post {
   width: 88%;
-  float: right;
-  height: 5px;
-  border-right: 1px solid black;
+  padding-left: 10px;
+  padding-top: 25px;
+}
+.imageh1 {
+  border-radius: 50%;
+  width: 50px;
+  margin-left: 9px;
+  margin-top: 9px;
 }
