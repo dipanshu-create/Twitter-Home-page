@@ -37,3 +37,10 @@
   margin-left: 9px;
   margin-top: 9px;
 }
+
+.senditems {
+  width: 25px;
+}
+.sendimage {
+  color: rgb(79, 79, 197);
+}
