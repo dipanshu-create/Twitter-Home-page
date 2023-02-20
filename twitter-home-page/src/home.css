@@ -24,7 +24,7 @@
   width: 12%;
   float: left;
   border-right: 1px solid black;
-  height: 75px;
+  height: 90px;
 }
 .post {
   width: 88%;
@@ -41,6 +41,24 @@
 .senditems {
   width: 25px;
 }
-.sendimage {
-  color: rgb(79, 79, 197);
+.usericon {
+  margin-top: 0px;
+}
+.tweetbutton {
+  width: 100px;
+  height: 35px;
+  border-radius: 300px;
+  background-color: lightblue;
+}
+.border1 {
+  border-top: 8px solid rgb(228, 222, 222);
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.imageh2 {
+  width: 12%;
+  float: left;
+  border-right: 1px solid black;
+  height: 120px;
 }
