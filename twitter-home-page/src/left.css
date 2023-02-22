@@ -1,0 +1,60 @@
+a.twitter {
+  padding-left: 50px;
+  margin-top: 10px;
+}
+
+.fa-home {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.text {
+  display: inline-block;
+  padding-left: 30px;
+  font-weight: bold;
+  font-size: 22px;
+}
+.fa-hashtag {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.fa-bell {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.fa-envelope {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.fa-bookmark {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.fa-list {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.fa-user {
+  padding-left: 55px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.fa-ellipsis-h {
+  padding-left: 50px;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.tweetbutton1 {
+  width: 200px;
+  height: 50px;
+  border-radius: 200px;
+  background-color: rgb(29, 161, 242);
+  border: 2px solid white;
+  margin-left: 45px;
+  color: white;
+}

@@ -48,8 +48,9 @@
   width: 100px;
   height: 35px;
   border-radius: 200px;
-  background-color: rgb(131, 131, 248);
+  background-color: rgb(29, 161, 242);
   border: 2px solid white;
+  color: white;
 }
 .border1 {
   border-top: 8px solid rgb(228, 222, 222);

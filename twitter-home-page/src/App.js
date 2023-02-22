@@ -2,6 +2,7 @@ import "./App.css";
 import Home from "./Home";
 import Left_bar from "./Left_bar";
 import Right_bar from "./Right_bar";
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
   return (
